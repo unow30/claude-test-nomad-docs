@@ -238,10 +238,6 @@ nomad/
 ### 루트 디렉토리
 - [`CLAUDE.md`](CLAUDE.md) - 개발자 가이드 및 기술 스택
 
-### 참고 자료
-- [`PRD_Homepage_v1.0.md`](.claude/insight/PRD_Homepage_v1.0.md) - 제품 요구사항 정의서
-- [`nomads_analysis_report.md`](.claude/insight/nomads_analysis_report.md) - 벤치마크 분석
-
 ## 📝 라이선스
 
 이 프로젝트는 프로토타입이며 학습 목적으로 제작되었습니다.
